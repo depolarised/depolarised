@@ -94,11 +94,11 @@ waveform-tools       lightweight signal-processing utils (NumPy/SciPy/JAX)
 
 </div>
 
-### `$ finger depolarised`
+### `$ finger `
 
 ```
 ORCID     0000-0003-4602-246X
-LinkedIn  in/wizofe
+LinkedIn  wizofe
 Web       neurojohn.vercel.app
 Email     via University of Glasgow ECG group
 ```
