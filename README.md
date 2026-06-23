@@ -1,113 +1,114 @@
 <div align="center">
 
-<sub>⛩️</sub>
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   IOANNIS VALASAKIS  //  @depolarised                    ║
+║   AI Research Engineer  ::  Computational Cardiology     ║
+║   University of Glasgow  --  Electrocardiology Group     ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
 
-# Ioannis Valasakis (`depolarised`)
+      [ glasgow.ecg.lab : tty1 ] :: secure shell :: heartbeat ok
 
-`AI Research Engineer · Computational Cardiology`
-
-*University of Glasgow — Electrocardiology Group*
+         R          R          R
+         /\         /\         /\
+      __/  \__    _/  \__    _/  \__
+              \__/        \__/
+         P Q R S T  ::  depolarise -> repolarise -> repeat
+```
 
 </div>
 
+### `$ whoami`
+
 ```
-   R          R          R
-   ╱╲         ╱╲         ╱╲
-──╯  ╰──╮ ╭──╯  ╰──╮ ╭──╯  ╰──
-        ╰─╯        ╰─╯
-   P Q R S T   ·   depolarise → repolarise → repeat
+> rigorous scientific software for CLINICAL ECG INTERPRETATION:
+  arrhythmia detection // atrial-fibrillation classification //
+  signal-quality assessment // noise handling // deployable ML.
 ```
 
-### 🌿 About
+I care about **clinically grounded AI** — systems that are measurable, explainable,
+reliable, and genuinely useful inside real medical workflows, not just impressive on
+paper. The day moves across research engineering, signal processing, classical ML,
+deep-learning prototypes, reproducible pipelines, and (patiently) legacy clinical
+codebases. Earlier lives in neuroimaging, computational neuroscience, and
+GPU-accelerated analysis still shape how I think.
 
-I build rigorous scientific software for **clinical ECG interpretation** — arrhythmia detection,
-atrial-fibrillation classification, signal-quality assessment, noise handling, and deployable ML
-for medical software.
+### `$ tail -f ~/now.log`
 
-I care about **clinically grounded AI**: systems that are measurable, explainable, reliable, and
-genuinely useful inside real medical workflows — not just impressive on paper. My day moves across
-research engineering, signal processing, classical ML, deep-learning prototypes, reproducible
-pipelines, and (patiently) legacy clinical codebases. Earlier lives in neuroimaging, computational
-neuroscience, and GPU-accelerated analysis still shape how I think.
+```
+[ active ]  modernising clinical ECG interpretation systems @ Glasgow ECG group
+[ active ]  atrial-fibrillation classification & arrhythmia-detection models
+[ active ]  signal-quality + noise-handling pipelines for real-world recordings
+[ active ]  reproducible, testable ML pipelines  ::  research -> deployment
+[ active ]  taming legacy clinical codebases into maintainable software
+```
 
-### 🔬 Currently building
+### `$ ls -la /usr/local/stack`
 
-- 🫀 &nbsp;Modernising clinical **ECG interpretation systems** at the Glasgow ECG group
-- 📈 &nbsp;**Atrial-fibrillation** classification & arrhythmia-detection models
-- 🌊 &nbsp;**Signal-quality + noise-handling** pipelines for real-world recordings
-- 🔁 &nbsp;Reproducible, testable **ML pipelines** bridging research ↔ deployment
-- 🧹 &nbsp;Taming **legacy clinical codebases** into maintainable software
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-000000?style=flat-square&logo=jax&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=white)
+![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=white)
 
-### 🛠 Tech
+![scikit--learn](https://img.shields.io/badge/scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-000000?style=flat-square)
+![LightGBM](https://img.shields.io/badge/LightGBM-000000?style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-000000?style=flat-square&logo=scipy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-000000?style=flat-square&logo=pandas&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-9C5C3C?style=flat-square&logo=python&logoColor=FBF3E8)
-![JAX](https://img.shields.io/badge/JAX-9C5C3C?style=flat-square&logo=jax&logoColor=FBF3E8)
-![PyTorch](https://img.shields.io/badge/PyTorch-9C5C3C?style=flat-square&logo=pytorch&logoColor=FBF3E8)
-![C](https://img.shields.io/badge/C-9C5C3C?style=flat-square&logo=c&logoColor=FBF3E8)
-![C++](https://img.shields.io/badge/C++-9C5C3C?style=flat-square&logo=cplusplus&logoColor=FBF3E8)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
+![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-000000?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-000000?style=flat-square&logo=jenkins&logoColor=white)
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-9C5C3C?style=flat-square&logo=scikitlearn&logoColor=FBF3E8)
-![XGBoost](https://img.shields.io/badge/XGBoost-9C5C3C?style=flat-square&logoColor=FBF3E8)
-![LightGBM](https://img.shields.io/badge/LightGBM-9C5C3C?style=flat-square&logoColor=FBF3E8)
-![NumPy](https://img.shields.io/badge/NumPy-9C5C3C?style=flat-square&logo=numpy&logoColor=FBF3E8)
-![SciPy](https://img.shields.io/badge/SciPy-9C5C3C?style=flat-square&logo=scipy&logoColor=FBF3E8)
-![pandas](https://img.shields.io/badge/pandas-9C5C3C?style=flat-square&logo=pandas&logoColor=FBF3E8)
+### `$ git log --oneline ./projects`
 
-![Linux](https://img.shields.io/badge/Linux-9C5C3C?style=flat-square&logo=linux&logoColor=FBF3E8)
-![Git](https://img.shields.io/badge/Git-9C5C3C?style=flat-square&logo=git&logoColor=FBF3E8)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-9C5C3C?style=flat-square&logo=githubactions&logoColor=FBF3E8)
-![Jenkins](https://img.shields.io/badge/Jenkins-9C5C3C?style=flat-square&logo=jenkins&logoColor=FBF3E8)
+<!-- swap these for your real pinned repos; link each, e.g. [`af-classifier`](https://github.com/depolarised/af-classifier) -->
 
-### 📌 Featured projects
+```
+af-classifier        atrial-fibrillation classification from single-lead ECG
+ecg-signal-quality   signal-quality indices & noise detection, real recordings
+ecg-pipelines        reproducible, tested pipelines: train + eval clinical models
+waveform-tools       lightweight signal-processing utils (NumPy/SciPy/JAX)
+```
 
-<!-- Replace the repo names + blurbs below with your real pinned repos.
-     Tip: link each title to its repo, e.g. [**ecg-quality**](https://github.com/depolarised/ecg-quality) -->
+### `$ ./stats.sh --all-commits --private`
 
-| Project | What it does |
-|---|---|
-| **`af-classifier`** | Atrial-fibrillation classification from single-lead ECG — features → gradient-boosted + DL baselines. |
-| **`ecg-signal-quality`** | Signal-quality indices & noise detection for real-world recordings. |
-| **`ecg-pipelines`** | Reproducible, tested pipelines for training & evaluating clinical ECG models. |
-| **`waveform-tools`** | Lightweight signal-processing utilities for ECG/biosignals (NumPy/SciPy/JAX). |
-
-### 📊 Activity
-
-<!-- PRIVATE REPOS: the PUBLIC URLs below can only read your PUBLIC repos, so commit
-     totals and top languages will be wrong. To count private repos + private commits,
-     deploy your OWN instance (one-time, ~5 min):
-       1. Fork  https://github.com/anuraghazra/github-readme-stats
+<!-- PRIVATE REPOS: the PUBLIC URLs below only see PUBLIC repos, so totals + top
+     languages are wrong. To count private repos, deploy your OWN instance (~5 min):
+       1. Fork  github.com/anuraghazra/github-readme-stats
        2. Deploy the fork to Vercel (free).
-       3. Create a GitHub token (Settings → Developer settings → Fine-grained PAT)
-          with read access to your repos, add it to Vercel as env var  PAT_1.
-       4. Replace  github-readme-stats.vercel.app  in both URLs below with your own
-          domain, e.g.  ioannis-stats.vercel.app
-     count_private=true + include_all_commits=true then reflect everything. -->
+       3. Make a fine-grained PAT with repo read access; add to Vercel as env  PAT_1.
+       4. Replace  github-readme-stats.vercel.app  in both URLs with your domain.
+     count_private + include_all_commits then report everything. -->
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=depolarised&show_icons=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&title_color=C36B4B&icon_color=C36B4B&text_color=6B4F3F&bg_color=FBF3E8" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=depolarised&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" alt="stats" />
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=depolarised&layout=compact&hide_border=true&count_private=true&langs_count=8&hide=typescript&title_color=C36B4B&text_color=6B4F3F&bg_color=FBF3E8" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=depolarised&layout=compact&hide_border=true&count_private=true&langs_count=8&hide=typescript&title_color=ffffff&text_color=ffffff&bg_color=000000" alt="top languages" />
 
 </div>
 
-### 🤝 Elsewhere
+### `$ finger depolarised`
 
-- 🔗 &nbsp;ORCID — [0000-0003-4602-246X](https://orcid.org/0000-0003-4602-246X)
-- 💼 &nbsp;LinkedIn — [in/wizofe](https://linkedin.com/in/wizofe)
-- 🌐 &nbsp;Web — [neurojohn.vercel.app](https://neurojohn.vercel.app)
-- ✉️ &nbsp;Email — via the [University of Glasgow ECG group](https://www.gla.ac.uk)
+```
+ORCID     0000-0003-4602-246X
+LinkedIn  in/wizofe
+Web       neurojohn.vercel.app
+Email     via University of Glasgow ECG group
+```
 
----
+[ORCID](https://orcid.org/0000-0003-4602-246X) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/wizofe) &nbsp;·&nbsp; [Web](https://neurojohn.vercel.app) &nbsp;·&nbsp; [Glasgow](https://www.gla.ac.uk)
 
-<div align="center">
+```
+# -- crafted in vim. measured before it ships. --
+# -- EOF :: depolarised --
+```
 
-<sub>built with care, measured before it ships ❤️‍🩹</sub>
-
-<br>
-
-<!-- Drop your signature image here once you have a clean scan:
-     <img src="signature.png" width="180" alt="signature" /> -->
-*— depolarised*
-
-</div>
+<!-- Drop a signature scan here once ready:
+     <div align="center"><img src="signature.png" width="180" alt="signature" /></div> -->
