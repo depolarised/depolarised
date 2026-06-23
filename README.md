@@ -3,6 +3,7 @@
 <sub>⛩️</sub>
 
 # Ioannis Valasakis (`depolarised`)
+
 `AI Research Engineer · Computational Cardiology`
 
 *University of Glasgow — Electrocardiology Group*
@@ -73,10 +74,9 @@ neuroscience, and GPU-accelerated analysis still shape how I think.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=depolarised&show_icons=true&hide_border=true&title_color=C36B4B&icon_color=C36B4B&text_color=6B4F3F&bg_color=FBF3E8" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=depolarised&layout=compact&hide_border=true&title_color=C36B4B&text_color=6B4F3F&bg_color=FBF3E8&langs_count=8" alt="Top languages" />
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=depolarised&hide_border=true&background=FBF3E8&ring=C36B4B&fire=C36B4B&currStreakLabel=C36B4B&sideLabels=6B4F3F&dates=A38B79&currStreakNum=6B4F3F&sideNums=6B4F3F&stroke=6B4F3F" alt="Streak" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=depolarised&show_icons=true&hide_border=true&hide_rank=true&title_color=C36B4B&icon_color=C36B4B&text_color=6B4F3F&bg_color=FBF3E8" alt="GitHub stats" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=depolarised&layout=compact&hide_border=true&title_color=C36B4B&text_color=6B4F3F&bg_color=FBF3E8&langs_count=8" alt="Top languages" />
 
 </div>
 
