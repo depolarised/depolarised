@@ -2,8 +2,7 @@
 
 <sub>⛩️</sub>
 
-# depolarised
-Ioannis Valasakis 
+# Ioannis Valasakis (`depolarised`)
 `AI Research Engineer · Computational Cardiology`
 
 *University of Glasgow — Electrocardiology Group*
