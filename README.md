@@ -3,10 +3,10 @@
 <sub>⛩️</sub>
 
 # depolarised
+Ioannis Valasakis 
+`AI Research Engineer · Computational Cardiology`
 
-`Senior Research Software Engineer · Computational Electrocardiography`
-
-*University of Glasgow — ECG Group*
+*University of Glasgow — Electrocardiology Group*
 
 </div>
 
