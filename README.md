@@ -72,11 +72,22 @@ neuroscience, and GPU-accelerated analysis still shape how I think.
 
 ### 📊 Activity
 
+<!-- PRIVATE REPOS: the PUBLIC URLs below can only read your PUBLIC repos, so commit
+     totals and top languages will be wrong. To count private repos + private commits,
+     deploy your OWN instance (one-time, ~5 min):
+       1. Fork  https://github.com/anuraghazra/github-readme-stats
+       2. Deploy the fork to Vercel (free).
+       3. Create a GitHub token (Settings → Developer settings → Fine-grained PAT)
+          with read access to your repos, add it to Vercel as env var  PAT_1.
+       4. Replace  github-readme-stats.vercel.app  in both URLs below with your own
+          domain, e.g.  ioannis-stats.vercel.app
+     count_private=true + include_all_commits=true then reflect everything. -->
+
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=depolarised&show_icons=true&hide_border=true&hide_rank=true&title_color=C36B4B&icon_color=C36B4B&text_color=6B4F3F&bg_color=FBF3E8" alt="GitHub stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=depolarised&show_icons=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&title_color=C36B4B&icon_color=C36B4B&text_color=6B4F3F&bg_color=FBF3E8" alt="GitHub stats" />
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=depolarised&layout=compact&hide_border=true&title_color=C36B4B&text_color=6B4F3F&bg_color=FBF3E8&langs_count=8" alt="Top languages" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=depolarised&layout=compact&hide_border=true&count_private=true&langs_count=8&hide=typescript&title_color=C36B4B&text_color=6B4F3F&bg_color=FBF3E8" alt="Top languages" />
 
 </div>
 
