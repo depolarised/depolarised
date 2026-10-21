@@ -99,7 +99,7 @@ waveform-tools       lightweight signal-processing utils (NumPy/SciPy/JAX)
 ```
 ORCID     0000-0003-4602-246X
 LinkedIn  wizofe
-Web       neurojohn.vercel.app
+Web       https://www.wizofe.uk
 Email     via University of Glasgow ECG group
 ```
 
