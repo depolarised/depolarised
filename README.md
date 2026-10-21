@@ -103,7 +103,7 @@ Web       https://www.wizofe.uk
 Email     via University of Glasgow ECG group
 ```
 
-[ORCID](https://orcid.org/0000-0003-4602-246X) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/wizofe) &nbsp;·&nbsp; [Web](https://neurojohn.vercel.app) &nbsp;·&nbsp; [Glasgow](https://www.gla.ac.uk)
+[ORCID](https://orcid.org/0000-0003-4602-246X) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/wizofe) &nbsp;·&nbsp; [Web](https://www.wizofe.uk) &nbsp;·&nbsp; [Glasgow](https://www.gla.ac.uk)
 
 ```
 # -- crafted in vim. measured before it ships. --
